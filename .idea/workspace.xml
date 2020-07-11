@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f771c14-1b25-4c66-8598-f534decad9eb" name="Default Changelist" comment="" />
+    <list default="true" id="1f771c14-1b25-4c66-8598-f534decad9eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
@@ -26,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1e2ur6HvDb0EAOKb6A0S37WYdDD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -136,7 +140,7 @@
       <updated>1593532204472</updated>
       <workItem from="1593532210981" duration="379000" />
       <workItem from="1593532613867" duration="14728000" />
-      <workItem from="1594432948826" duration="479000" />
+      <workItem from="1594432948826" duration="1081000" />
     </task>
     <servers />
   </component>
