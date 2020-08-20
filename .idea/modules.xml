@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-activemq/spring-boot-activemq.iml" filepath="$PROJECT_DIR$/spring-boot-activemq/spring-boot-activemq.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-design-pattern/spring-boot-design-pattern.iml" filepath="$PROJECT_DIR$/spring-boot-design-pattern/spring-boot-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-quartz/spring-boot-quartz.iml" filepath="$PROJECT_DIR$/spring-boot-quartz/spring-boot-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
     </modules>
   </component>
